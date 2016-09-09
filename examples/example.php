@@ -1,4 +1,4 @@
 <?php
 require 'autoload.php';
 
-echo "Hello World";
+$instance = new \Redbox\Package\NewClass();

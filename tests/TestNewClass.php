@@ -9,10 +9,13 @@
 namespace Redbox\Package\Tests;
 
 
-use Redbox\Package\Class;
+use Redbox\Package\NewClass;
 
 
 class TestNewClass extends \PHPUnit_Framework_TestCase
 {
+    public function testConstruct() {
+        new NewClass;
+    }
 
 }
