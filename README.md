@@ -11,3 +11,5 @@ This is just a skeleton for my php packages.
 ```bash
 $ composer create-project -sdev redbox/redbox-package-skeleton ./skel/
 ```
+
+
